@@ -18,7 +18,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"start": "node app.js"
+	"start": "port 3000 node app.js"
   },
   "author": "Matt Mittelsted",
   "license": "ISC"
